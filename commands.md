@@ -1,5 +1,6 @@
 # Create app
 > npx create-react-app .
+>  npx create-react-app . --template typescript
 
 # start 
 > npm start
